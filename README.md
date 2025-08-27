@@ -20,7 +20,7 @@ This project aims to detect forest fires using deep learning techniques. It is d
 
 1. **Clone the repository**  
    ```sh
-   git clone <repo-url>
+   git clone https://github.com/milan-deori/Forest_fire_Detection.git
    cd Forest_fire_Detection
    ```
 
