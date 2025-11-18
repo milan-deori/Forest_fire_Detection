@@ -62,5 +62,5 @@ Specify your license here (e.g., MIT, Apache 2.0).
 
 ## Contact
 
-For questions or collaboration, contact the project maintainer.
+For questions or collaboration, contact the project maintainer..
 
